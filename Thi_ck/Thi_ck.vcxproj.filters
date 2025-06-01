@@ -24,12 +24,18 @@
     <ClCompile Include="Phuong_trinh_bac_hai.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="smartHome_ham.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Thu_vien.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Phuong_trinh_bac_hai.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="smartHome_struct.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
