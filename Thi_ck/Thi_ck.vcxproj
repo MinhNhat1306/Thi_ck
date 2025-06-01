@@ -129,8 +129,10 @@
   <ItemGroup>
     <ClCompile Include="Ham.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Phuong_trinh_bac_hai.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Phuong_trinh_bac_hai.h" />
     <ClInclude Include="Thu_vien.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
